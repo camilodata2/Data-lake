@@ -1,0 +1,6 @@
+# Things i don't wanna see
+*.__pycache__
+*. csv
+*.json
+*.bash
+*.parquet

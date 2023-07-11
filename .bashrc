@@ -1,0 +1,7 @@
+AWS_ACCESS_KEY_ID="AKIA26PFVRRIZU7YR7OS"
+AWS_SECRET_ACCESS_KEY="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"
+REDSHIFT_HOST="redshift-cluster-2.cd3izmhckr86.us-east-2.redshift.amazonaws.com"
+REDSHIFT_DATABASE="dev"
+PORT=5439
+REDSHIFT_USER="datacyber"
+REDSHIFT_PASSWORD="Teresalopez2015*"
